@@ -1,2 +1,3 @@
-# Dise-o-de-sistemas
+# Diseño de sistemas
+
 Repo para subir lo que hagamos en clases y haya que entregar
